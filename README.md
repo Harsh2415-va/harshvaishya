@@ -24,8 +24,8 @@ Passionate about Data Science, AI/ML, Cloud Computing, and Web Development. I en
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile link here
-* Email: Add your email here
+* LinkedIn: https://www.linkedin.com/in/harsh-vaishya-615a7427a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* Email: harshvaishya2005@gmail.com
 
 ## ⚡ Fun Fact
 
